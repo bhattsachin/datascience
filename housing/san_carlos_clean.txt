@@ -1,0 +1,476 @@
+Serial|Price|Sold.Date|Size|Address
+1|1.51M|2/20/15|4 bd, 3 ba, 2,508 sqft|162 Coronado Ave, San Carlos, CA
+2|900,000|2/2/15|3 bd, 1 ba, 980 sqft|10 Flower St, Redwood City, CA
+3|970,000|1/30/15|3 bd, 2.5 ba, 1,720 sqft|1230 Greenbrier Rd, San Carlos, CA
+4|688,000|1/30/15|2 bd, 2 ba, 1,300 sqft|1700 San Carlos Ave APT 202, San Carlos, CA
+5|325,000|1/29/15|3 bd, 2 ba, 1,600 sqft|73 Wessex Way, San Carlos, CA
+6|1.59M|1/28/15|3 bd, 2.5 ba, 3,268 sqft|179 Bay View Dr, San Carlos, CA
+7|885,000|1/27/15|2 bd, 1 ba, 870 sqft|1005 Cherry St, San Carlos, CA
+8|1.44M|1/23/15|3 bd, 2 ba, 1,617 sqft|1153 Walnut St, San Carlos, CA
+9|826,000|1/16/15|2 bd, 1 ba, 830 sqft|961 Hall St, San Carlos, CA
+10|1.62M|1/15/15|3 bd, 2 ba, 1,680 sqft|1924 Saint Francis Way, San Carlos, CA
+11|1.53M|1/13/15|4 bd, 2 ba, 1,830 sqft|35 Carmel Ln, Redwood City, CA
+12|1.15M|1/9/15|2 bd, 1 ba, 920 sqft|25 Wildwood Ave, San Carlos, CA
+13|1.52M|1/9/15|4 bd, 3 ba, 2,720 sqft|208 Exeter Ave, San Carlos, CA
+14|730,000|1/9/15|3 bd, 2 ba, 1,239 sqft|3332 Brittan Ave APT 6, San Carlos, CA
+15|1.25M|1/7/15|3 bd, 3 ba, 2,360 sqft|240 Chesham Ave, San Carlos, CA
+16|718,000|1/7/15|4 bd, 3 ba, 2,300 sqft|79 Dartmouth Ave, San Carlos, CA
+17|1.69M|1/6/15|4 bd, 3 ba, 2,333 sqft|3394 Melendy Dr, San Carlos, CA
+18|1.75M|1/2/15|4 bd, 3 ba, 3,300 sqft|2880 Eaton Ave, San Carlos, CA
+19|1.55M|12/31/14|4 bd, 3 ba, 2,620 sqft|330 Emerald Ave, San Carlos, CA
+20|820,000|12/31/14|2 bd, 1 ba, 820 sqft|1031 Sylvan Dr, San Carlos, CA
+21|750,000|12/30/14|2 bd, 2.5 ba, 1,350 sqft|416 Portofino Dr APT 102, San Carlos, CA
+22|1.24M|12/27/14|2 bd, 2 ba, 1,440 sqft|128 Garnet Ave, San Carlos, CA
+23|1.56M|12/25/14|3 bd, 3 ba, 1,500 sqft|1930 Belmont Ave, San Carlos, CA
+24|617,000|12/24/14|2 bd, 2 ba, 1,040 sqft|3374 Brittan Ave APT 2, San Carlos, CA
+25|850,000|12/23/14|4 bd, 2 ba, 1,670 sqft|1527 Magnolia Ave, San Carlos, CA
+26|1.23M|12/23/14|3 bd, 1 ba, 1,650 sqft|203 Club Dr, San Carlos, CA
+27|1.32M|12/22/14|4 bd, 3 ba, 1,980 sqft|2810 San Carlos Ave, San Carlos, CA
+28|2.1M|12/19/14|2 bd, 2 ba, 1,200 sqft|436 Laurel St, San Carlos, CA
+29|1.8M|12/12/14|4 bd, 2 ba, 1,850 sqft|1368 Oakhurst Ave, San Carlos, CA
+30|1.04M|12/12/14|3 bd, 2.5 ba, 2,100 sqft|16 Violet Ln, San Carlos, CA
+31|790,000|12/10/14|2 bd, 2 ba, 1,220 sqft|775 Chestnut St APT 18, San Carlos, CA
+32|435,000|12/10/14|1 bd, 1 ba, 702 sqft|222 Laurel St APT 309, San Carlos, CA
+33|1.12M|12/9/14|2 bd, 1 ba, 1,040 sqft|139 Plymouth Ave, San Carlos, CA
+34|152,500|12/9/14|3 bd, 4 ba, 2,000 sqft|728 Elm St APT 304, San Carlos, CA
+35|968,500|12/5/14|2 bd, 1 ba, 1,120 sqft|410 Ridge Rd, San Carlos, CA
+36|1M|12/4/14|2 bd, 4 ba, 1,793 sqft|13 Lilly Ln, San Carlos, CA
+37|860,000|12/3/14|2 bd, 1 ba, 890 sqft|940 Holly St, San Carlos, CA
+38|957,500|12/3/14|2 bd, 1 ba, 1,180 sqft|1004 Montgomery St, San Carlos, CA
+39|1.5M|12/3/14|2 bd, 2 ba, 1,900 sqft|8 Marigold Ln, San Carlos, CA
+40|1.69M|12/2/14|4 bd, 2.5 ba, 2,499 sqft|59 Club Dr, San Carlos, CA
+41|1.14M|12/1/14|2 bd, 1 ba, 1,290 sqft|2284 Carmelita Dr, San Carlos, CA
+42|1.51M|11/26/14|3 bd, 3 ba, 2,030 sqft|1392 Cedar St, San Carlos, CA
+43|1.12M|11/26/14|3 bd, 2 ba, 1,920 sqft|345 Oakview Dr, San Carlos, CA
+44|1.56M|11/26/14|3 bd, 2 ba, 2,040 sqft|2041 San Carlos Ave, San Carlos, CA
+45|683,000|11/24/14|2 bd, 2 ba, 1,300 sqft|1700 San Carlos Ave APT 102, San Carlos, CA
+46|728,000|11/24/14|2 bd, 2.5 ba, 1,250 sqft|416 Portofino Dr # 10, San Carlos, CA
+47|1.6M|11/21/14|5 bd, 3 ba, 2,821 sqft|1223 Howard Ave, San Carlos, CA
+48|1.21M|11/18/14|2 bd, 2.5 ba, 2,260 sqft|1 Geranium Ln, San Carlos, CA
+49|1.38M|11/18/14|3 bd, 2 ba, 2,023 sqft|502 Cedar St, San Carlos, CA
+50|1.02M|11/17/14|2 bd, 1 ba, 1,040 sqft|742 Neal Ave, San Carlos, CA
+51|1.53M|11/14/14|4 bd, 3 ba, 2,397 sqft|166 Loma Rd, San Carlos, CA
+52|675,000|11/14/14|2 bd, 1 ba, 1,000 sqft|757 Elm St APT 12, San Carlos, CA
+53|765,000|11/14/14|2 bd, 1 ba, 850 sqft|1027 Holly St, San Carlos, CA
+54|1.45M|11/14/14|3 bd, 2 ba, 1,450 sqft|1175 Walnut St, San Carlos, CA
+55|950,000|11/14/14|2 bd, 1 ba, 990 sqft|1052 Laurel St, San Carlos, CA
+56|950,000|11/14/14|2 bd, 1 ba, 940 sqft|1040 Laurel St, San Carlos, CA
+57|1.35M|11/13/14|3 bd, 3.5 ba, 2,640 sqft|420 Winding Way, San Carlos, CA
+58|1.7M|11/13/14|4 bd, 4 ba, 3,130 sqft|975 Buckland Ave, San Carlos, CA
+59|1.93M|11/12/14|4 bd, 4.5 ba, 5,385 sqft|27 Madera Ave, San Carlos, CA
+60|1.2M|11/12/14|2 bd, 2 ba, 1,290 sqft|1750 Chestnut St, San Carlos, CA
+61|1.2M|11/10/14|3 bd, 2.5 ba, 2,031 sqft|3 Trillium Ln # 282, San Carlos, CA
+62|1.04M|11/10/14|3 bd, 2.5 ba, 2,031 sqft|1 Chicory Ln # 106, San Carlos, CA
+63|1.63M|11/7/14|3 bd, 2 ba, 1,840 sqft|1357 Cedar St, San Carlos, CA
+64|1.7M|11/6/14|3 bd, 2 ba, 1,710 sqft|1825 Saint Francis Way, San Carlos, CA
+65|610,000|11/6/14|1 bd, 1 ba, 774 sqft|633 Elm St APT 301, San Carlos, CA
+66|1.49M|11/6/14|2 bd, 1 ba, 1,100 sqft|271 Elm St, San Carlos, CA
+67|1.61M|11/5/14|3 bd, 2 ba, 2,150 sqft|1110 Hudson Ct, San Carlos, CA
+68|1.3M|11/5/14|3 bd, 3 ba, 2,020 sqft|309 Portofino Dr, San Carlos, CA
+69|2.4M|11/5/14|4 bd, 3.5 ba, 2,720 sqft|1028 Rosewood Ave, San Carlos, CA
+70|640,000|11/4/14|2 bd, 2 ba, 1,040 sqft|3338 La Mesa Dr APT 10, San Carlos, CA
+71|975,000|11/4/14|2 bd, 2.5 ba, 1,793 sqft|10 Sorrel Ln, San Carlos, CA
+72|975,000|11/3/14|2 bd, 3 ba, 1,793 sqft|10 Sorrel Ln, San Carlos, CA
+73|1.24M|10/31/14|2 bd, 1 ba, 970 sqft|1528 Cordilleras Ave, San Carlos, CA
+74|1.83M|10/31/14|3 bd, 2 ba, 2,040 sqft|3189 La Mesa Dr, San Carlos, CA
+75|740,000|10/30/14|2 bd, 1 ba, 814 sqft|950 Cherry St, San Carlos, CA
+76|740,000|10/30/14|2 bd, 1 ba, 814 sqft|950 Cherry St, San Carlos, CA
+77|1.29M|10/30/14|4 bd, 2.5 ba, 2,700 sqft|1079 Sunset Dr, San Carlos, CA
+78|1.01M|10/29/14|2 bd, 3 ba, 1,793 sqft|11 Trillium Ln, San Carlos, CA
+79|1.88M|10/28/14|3 bd, 2.5 ba, 2,619 sqft|35 Bay View Dr, San Carlos, CA
+80|595,000|10/28/14|2 bd, 2 ba, 1,040 sqft|3318 Brittan Ave APT 3, San Carlos, CA
+81|1.56M|10/28/14|3 bd, 3 ba, 1,740 sqft|1081 Hewitt Dr, San Carlos, CA
+82|830,000|10/28/14|2 bd, 1 ba, 1,280 sqft|287 G St, Redwood City, CA
+83|1.43M|10/24/14|3 bd, 2 ba, 1,320 sqft|419 Emerald Ave, San Carlos, CA
+84|1.65M|10/22/14|4 bd, 2.5 ba, 1,980 sqft|2230 Eaton Ave, San Carlos, CA
+85|900,000|10/21/14|2 bd, 3 ba, 1,793 sqft|25 Trillium Ln, San Carlos, CA
+86|1.45M|10/21/14|3 bd, 2 ba, 1,870 sqft|2651 Eaton Ave, Redwood City, CA
+87|1.15M|10/21/14|2 bd, 1 ba, 1,240 sqft|1725 Eaton Ave, San Carlos, CA
+88|1.6M|10/21/14|3 bd, 2.5 ba, 1,780 sqft|117 Highland Ave, San Carlos, CA
+89|1.2M|10/20/14|3 bd, 3 ba, 1,709 sqft|15 Trillium Ln, San Carlos, CA
+90|1.61M|10/20/14|4 bd, 2 ba, 2,160 sqft|808 Bauer Dr, San Carlos, CA
+91|2.01M|10/17/14|4 bd, 2 ba, 1,930 sqft|191 Fairmont Ave, San Carlos, CA
+92|1.84M|10/17/14|4 bd, 2 ba, 1,850 sqft|109 Wildwood Ave, San Carlos, CA
+93|1.9M|10/15/14|5 bd, 4 ba, 3,100 sqft|59 Hilltop Dr, San Carlos, CA
+94|1.5M|10/15/14|3 bd, 2 ba, 2,380 sqft|1221 Highland Ct, San Carlos, CA
+95|1.57M|10/14/14|3 bd, 2 ba, 1,690 sqft|1700 Greenwood Ave, San Carlos, CA
+96|1.07M|10/14/14|3 bd, 2 ba, 1,310 sqft|2565 San Carlos Ave, San Carlos, CA
+97|1.25M|10/14/14|2 bd, 3 ba, 2,040 sqft|12 Daffodil Ln, San Carlos, CA
+98|1.02M|10/10/14|3 bd, 2 ba, 1,780 sqft|907 Montgomery St, San Carlos, CA
+99|750,000|10/9/14|2 bd, 2 ba, 1,180 sqft|1 Elm St APT 202, San Carlos, CA
+100|1.35M|10/9/14|3 bd, 2 ba, 1,830 sqft|1605 Vine St, Belmont, CA
+101|1.9M|10/9/14|3 bd, 3 ba, 2,128 sqft|1030 Walnut St, San Carlos, CA
+102|1.38M|10/8/14|4 bd, 3 ba, 1,830 sqft|75 Bayport Ct, San Carlos, CA
+103|1.18M|10/7/14|3 bd, 2 ba, 1,380 sqft|23 Willow Glen Way, San Carlos, CA
+104|1.3M|10/7/14|3 bd, 2.5 ba, 2,050 sqft|107 Winding Way, San Carlos, CA
+105|1.52M|10/6/14|3 bd, 2.5 ba, 1,970 sqft|460 Phelps Rd, San Carlos, CA
+106|1.56M|10/3/14|5 bd, 3 ba, 2,480 sqft|1721 Cedar St, San Carlos, CA
+107|1.02M|10/3/14|3 bd, 3 ba, 1,709 sqft|9 Buttercup Ln, San Carlos, CA
+108|5.98M|10/3/14|1 bd, 1 ba, 8,346 sqft|1617 Sixth Ave, Belmont, CA
+109|704,000|10/3/14|2 bd, 1 ba, 993 sqft|1561 Cherry St APT 5, San Carlos, CA
+110|1.32M|10/3/14|4 bd, 2.5 ba, 2,400 sqft|986 Sunset Dr, San Carlos, CA
+111|5.98M|10/3/14|1 bd, 1 ba, 9,898 sqft|1621 Sixth Ave, Belmont, CA
+112|1.02M|10/2/14|2 bd, 1 ba, 1,090 sqft|348 Oakview Dr, San Carlos, CA
+113|1.08M|10/1/14|2 bd, 1 ba, 1,328 sqft|119 Belvedere Ave, San Carlos, CA
+114|1.1M|9/30/14|2 bd, 1 ba, 1,180 sqft|736 Tamarack Ave, San Carlos, CA
+115|1.4M|9/30/14|3 bd, 1 ba, 1,210 sqft|154 Alberta Ave, San Carlos, CA
+116|2.25M|9/30/14|3 bd, 3 ba, 3,060 sqft|760 Crestview Dr, San Carlos, CA
+117|925,100|9/30/14|3 bd, 1 ba, 1,280 sqft|819 Sunset Dr, San Carlos, CA
+118|525,000|9/30/14|2 bd, 2 ba, 1,124 sqft|728 Elm St APT 108, San Carlos, CA
+119|675,000|9/29/14|2 bd, 1.5 ba, 970 sqft|772 Walnut St APT 15, San Carlos, CA
+120|1.1M|9/26/14|3 bd, 1 ba, 1,210 sqft|205 Oakview Dr, San Carlos, CA
+121|2.45M|9/26/14|5 bd, 5 ba, 3,106 sqft|125 Kelton Ave, San Carlos, CA
+122|1.77M|9/25/14|8 bd, 5 ba, 4,256 sqft|344 Torino Dr APT 1, San Carlos, CA
+123|975,000|9/24/14|2 bd, 1 ba, 1,050 sqft|137 Cedar St, San Carlos, CA
+124|2.28M|9/23/14|4 bd, 3 ba, 3,402 sqft|575 Alameda, San Carlos, CA
+125|1.38M|9/23/14|4 bd, 2.5 ba, 1,910 sqft|241 Highland Ave, San Carlos, CA
+126|1.64M|9/22/14|4 bd, 3 ba, 2,148 sqft|269 Ruby Ave, San Carlos, CA
+127|1.9M|9/22/14|4 bd, 3 ba, 3,308 sqft|109 Windsor Dr, San Carlos, CA
+128|675,000|9/19/14|1 bd, 1 ba, 774 sqft|633 Elm St APT 114, San Carlos, CA
+129|1.13M|9/19/14|2 bd, 1 ba, 1,080 sqft|1020 Orange Ave, San Carlos, CA
+130|903,000|9/19/14|3 bd, 1 ba, 980 sqft|338 G St, Redwood City, CA
+131|1.6M|9/19/14|3 bd, 2 ba, 2,400 sqft|245 Highland Ave, San Carlos, CA
+132|850,000|9/19/14|2 bd, 1 ba, 1,040 sqft|976 Holly St, San Carlos, CA
+133|1.85M|9/18/14|4 bd, 3 ba, 3,000 sqft|340 Elm St, San Carlos, CA
+134|1.77M|9/18/14|3 bd, 3.5 ba, 2,080 sqft|8 El Sereno Dr, San Carlos, CA
+135|640,000|9/18/14|3 bd, 2 ba, 1,040 sqft|3350 La Mesa Dr APT 10, San Carlos, CA
+136|1.1M|9/18/14|2 bd, 2 ba, 1,020 sqft|124 Winding Way, San Carlos, CA
+137|2M|9/18/14|5 bd, 3 ba, 2,700 sqft|3166 La Mesa Dr, San Carlos, CA
+138|1.38M|9/16/14|3 bd, 3 ba, 2,010 sqft|7 Dover Ct, San Carlos, CA
+139|650,000|9/16/14|4 bd, 3 ba, 2,690 sqft|1250 Edgewood Rd, Redwood City, CA
+140|680,000|9/16/14|2 bd, 2 ba, 1,331 sqft|939 Laurel St APT 202, San Carlos, CA
+141|1.25M|9/16/14|3 bd, 2 ba, 1,520 sqft|21 Hilltop Dr, San Carlos, CA
+142|1.69M|9/15/14|-- bd, -- ba, -- sqft|107 Mirabel Pl San Carlos Ca # 94070, San Carlos, CA
+143|1.38M|9/15/14|3 bd, 2 ba, 1,543 sqft|2043 Saint Francis Way, San Carlos, CA
+144|655,000|9/12/14|2 bd, 2 ba, 1,320 sqft|602 Cedar St APT 2, San Carlos, CA
+145|417,500|9/11/14|2 bd, 2 ba, 1,094 sqft|1001 Laurel St UNIT 205, San Carlos, CA
+146|851,000|9/11/14|3 bd, 2 ba, 1,239 sqft|3290 La Mesa Dr # 1, San Carlos, CA
+147|1.3M|9/10/14|3 bd, 2 ba, 1,520 sqft|2007 Eucalyptus Ave, San Carlos, CA
+148|598,000|9/5/14|1 bd, 1 ba, 741 sqft|3311 La Mesa Dr APT 11, San Carlos, CA
+149|1.43M|9/5/14|3 bd, 2 ba, 1,310 sqft|928 Elm St, San Carlos, CA
+150|1.33M|9/5/14|4 bd, 3 ba, 2,200 sqft|7 Plymouth Ave, San Carlos, CA
+151|605,000|9/5/14|2 bd, 2 ba, 1,040 sqft|3372 La Mesa Dr APT 2, San Carlos, CA
+152|1.38M|9/5/14|3 bd, 2 ba, 1,770 sqft|2258 Howard Ave, San Carlos, CA
+153|1M|9/4/14|3 bd, 2 ba, 1,500 sqft|333 Oakview Dr, San Carlos, CA
+154|807,000|9/4/14|2 bd, 1 ba, 1,230 sqft|44 Devonshire Blvd, San Carlos, CA
+155|915,000|9/2/14|2 bd, 2.5 ba, 1,793 sqft|13 Chicory Ln, San Carlos, CA
+156|627,000|9/2/14|2 bd, 2 ba, 970 sqft|772 Walnut St APT 8, San Carlos, CA
+157|1.71M|9/1/14|4 bd, 3 ba, 2,500 sqft|1512 Howard Ave, San Carlos, CA
+158|1.1M|8/29/14|2 bd, 1 ba, 1,350 sqft|113 Colton Ave, San Carlos, CA
+159|1.95M|8/29/14|3 bd, 3 ba, 2,664 sqft|135 Lynton Ave, San Carlos, CA
+160|1.99M|8/28/14|4 bd, 3.5 ba, 2,380 sqft|2049 Brittan Ave, San Carlos, CA
+161|1.88M|8/28/14|3 bd, 3 ba, 2,390 sqft|41 Elston Ct, San Carlos, CA
+162|1.4M|8/28/14|3 bd, 2.5 ba, 2,880 sqft|1126 Royal Ln, San Carlos, CA
+163|1.38M|8/27/14|2 bd, 2 ba, 1,590 sqft|578 Cedar St, San Carlos, CA
+164|1M|8/27/14|3 bd, 2.5 ba, 2,310 sqft|5 Iris Ln, San Carlos, CA
+165|1.53M|8/27/14|3 bd, 2.5 ba, 1,780 sqft|43 Sequoia Ct, San Carlos, CA
+166|870,000|8/26/14|2 bd, 2 ba, 1,096 sqft|633 Elm St APT 304, San Carlos, CA
+167|1.42M|8/25/14|3 bd, 2 ba, 1,830 sqft|260 Fairmont Ave, San Carlos, CA
+168|3.54M|8/22/14|7 bd, 5 ba, 4,994 sqft|257 Elm St, San Carlos, CA
+169|3.54M|8/22/14|9 bd, 9 ba, 9,988 sqft|191 Elm St, San Carlos, CA
+170|1.15M|8/22/14|2 bd, 1 ba, 1,060 sqft|1349 Rosewood Ave, San Carlos, CA
+171|612,000|8/21/14|2 bd, 2 ba, 1,030 sqft|1 Laurel St APT 401, San Carlos, CA
+172|1.62M|8/19/14|4 bd, 2.5 ba, 3,063 sqft|337 Clifton Ave, San Carlos, CA
+173|1.6M|8/19/14|3 bd, 3 ba, 2,600 sqft|3230 La Mesa Dr, San Carlos, CA
+174|1.03M|8/15/14|3 bd, 2 ba, 1,310 sqft|961 Mccue Ave, San Carlos, CA
+175|1.73M|8/14/14|4 bd, 3.5 ba, 3,269 sqft|20 Molton Ave, San Carlos, CA
+176|915,000|8/14/14|2 bd, 1 ba, 790 sqft|848 Sunset Dr, San Carlos, CA
+177|1.73M|8/14/14|4 bd, 3.5 ba, 3,269 sqft|20 Molton Ave, San Carlos, CA
+178|1.35M|8/12/14|3 bd, 3 ba, 2,540 sqft|507 Exeter Way, San Carlos, CA
+179|1.3M|8/11/14|3 bd, 3 ba, 1,530 sqft|109 Club Dr, San Carlos, CA
+180|1.29M|8/7/14|3 bd, 2 ba, 1,560 sqft|1981 Eucalyptus Ave, San Carlos, CA
+181|1.24M|8/7/14|3 bd, 3 ba, 2,880 sqft|1107 Royal Ln, San Carlos, CA
+182|2.48M|8/6/14|5 bd, 4 ba, 3,304 sqft|23 Camborne Ave, San Carlos, CA
+183|1.22M|8/4/14|4 bd, 4 ba, 2,720 sqft|281 Dartmouth Ave, San Carlos, CA
+184|350,000|8/1/14|2 bd, 1 ba, 870 sqft|2540 Howard Ave, San Carlos, CA
+185|1.86M|8/1/14|3 bd, 2 ba, 2,150 sqft|2240 Howard Ave, San Carlos, CA
+186|1.2M|7/31/14|4 bd, 2 ba, 1,580 sqft|304 Elm St, San Carlos, CA
+187|1M|7/31/14|2 bd, 1 ba, 880 sqft|2674 Thornhill Dr, San Carlos, CA
+188|850,000|7/30/14|3 bd, 1 ba, 1,690 sqft|153 Edgehill Dr, San Carlos, CA
+189|1.7M|7/30/14|4 bd, 3 ba, 2,250 sqft|870 Orange Ave, San Carlos, CA
+190|950,000|7/28/14|2 bd, 1 ba, 1,090 sqft|549 Prospect St, San Carlos, CA
+191|1.55M|7/28/14|3 bd, 3 ba, 2,160 sqft|185 Lyndhurst Ave, San Carlos, CA
+192|1.8M|7/28/14|3 bd, 2 ba, 1,824 sqft|2432 Melendy Dr, San Carlos, CA
+193|1.19M|7/28/14|4 bd, 3 ba, 2,720 sqft|393 Chestnut St, San Carlos, CA
+194|980,000|7/25/14|3 bd, 2 ba, 1,480 sqft|14 Vine St, San Carlos, CA
+195|1.55M|7/25/14|3 bd, 3 ba, 1,860 sqft|2813 Eaton Ave, San Carlos, CA
+196|1.02M|7/25/14|2 bd, 2.5 ba, 1,793 sqft|1 Lilly Ln, San Carlos, CA
+197|1.79M|7/25/14|4 bd, 3 ba, 2,260 sqft|1637 Cedar St, San Carlos, CA
+198|1.5M|7/25/14|4 bd, 2 ba, 2,190 sqft|40 Curry Ct, San Carlos, CA
+199|1.12M|7/25/14|3 bd, 3 ba, 1,414 sqft|1001 Laurel St UNIT 419, San Carlos, CA
+200|1M|7/24/14|2 bd, 1 ba, 1,260 sqft|1274 Magnolia Ave, San Carlos, CA
+201|725,000|7/24/14|3 bd, 2 ba, 1,239 sqft|3358 Brittan Ave APT 18, San Carlos, CA
+202|1.44M|7/24/14|3 bd, 2.5 ba, 2,310 sqft|10 Iris Ln, San Carlos, CA
+203|1.2M|7/23/14|3 bd, 1 ba, 1,230 sqft|1316 Chestnut St, San Carlos, CA
+204|2.1M|7/23/14|5 bd, 5.5 ba, 5,190 sqft|54 Eaton Villa Pl, Redwood City, CA
+205|1.6M|7/22/14|3 bd, 3 ba, 2,000 sqft|1316 Orange Ave, San Carlos, CA
+206|956,000|7/22/14|3 bd, 2 ba, 1,370 sqft|1066 Cedar St, San Carlos, CA
+207|1.3M|7/22/14|3 bd, 2.5 ba, 1,360 sqft|1100 Walnut St, San Carlos, CA
+208|440,000|7/18/14|4 bd, -- ba, 3,520 sqft|132 Bay View Dr, San Carlos, CA
+209|1.23M|7/18/14|2 bd, 1 ba, 1,420 sqft|236 Kelton Ave, San Carlos, CA
+210|916,000|7/18/14|3 bd, 2 ba, 1,680 sqft|23 Chestnut St, San Carlos, CA
+211|1.47M|7/18/14|3 bd, 2 ba, 2,050 sqft|3131 Brittan Ave, San Carlos, CA
+212|655,000|7/16/14|2 bd, 2 ba, 1,040 sqft|3329 Brittan Ave APT 10, San Carlos, CA
+213|1.21M|7/16/14|3 bd, 2 ba, 1,390 sqft|889 Cordilleras Ave, San Carlos, CA
+214|675,000|7/16/14|2 bd, 1 ba, 980 sqft|1148 Rosewood Ave, San Carlos, CA
+215|675,100|7/15/14|1 bd, 1 ba, 774 sqft|633 Elm St APT 400, San Carlos, CA
+216|1.65M|7/15/14|3 bd, 2 ba, 1,784 sqft|1601 Arroyo Ave, San Carlos, CA
+217|1.98M|7/14/14|2 bd, 1 ba, 1,390 sqft|17 Cranfield Ave, San Carlos, CA
+218|1.4M|7/11/14|3 bd, 1 ba, 1,410 sqft|1362 Chestnut St, San Carlos, CA
+219|800,000|7/8/14|3 bd, 3 ba, 1,410 sqft|1820 San Carlos Ave, San Carlos, CA
+220|1.71M|7/3/14|4 bd, 2.5 ba, 2,300 sqft|2732 Milano Way, San Carlos, CA
+221|1.18M|7/3/14|2 bd, 1.5 ba, 1,170 sqft|144 Edgehill Dr, San Carlos, CA
+222|1.74M|7/3/14|4 bd, 3 ba, 2,570 sqft|1404 Crestview Dr, San Carlos, CA
+223|999,000|7/3/14|3 bd, 2 ba, 2,490 sqft|133 Plymouth Ave, San Carlos, CA
+224|147,000|7/1/14|3 bd, 2 ba, 1,239 sqft|3349 Brittan Ave APT 12, San Carlos, CA
+225|1.18M|7/1/14|3 bd, 2 ba, 1,360 sqft|1358 Geneva Ave, San Carlos, CA
+226|147,000|7/1/14|3 bd, 2 ba, 1,239 sqft|3349 Brittan Ave APT 12, San Carlos, CA
+227|1.18M|7/1/14|3 bd, 2 ba, 1,360 sqft|1358 Geneva Ave, San Carlos, CA
+228|645,000|6/30/14|2 bd, 2 ba, 1,040 sqft|3368 La Mesa Dr APT 7, San Carlos, CA
+229|2.35M|6/30/14|4 bd, 4 ba, 3,680 sqft|58 Hillcrest Rd, San Carlos, CA
+230|1.15M|6/27/14|3 bd, 2 ba, 1,390 sqft|261 Kelton Ave, San Carlos, CA
+231|1.06M|6/26/14|2 bd, 2.5 ba, 1,793 sqft|20 Trillium Ln, San Carlos, CA
+232|2.1M|6/26/14|4 bd, 4 ba, 3,184 sqft|112 Arundel Rd, San Carlos, CA
+233|728,000|6/25/14|2 bd, 2.5 ba, 1,400 sqft|416 Portofino Dr # 18, San Carlos, CA
+234|1.88M|6/24/14|2 bd, 1 ba, 840 sqft|1006 Alameda, San Carlos, CA
+235|831,500|6/24/14|2 bd, 1 ba, 900 sqft|966 Cherry St, San Carlos, CA
+236|1.9M|6/24/14|4 bd, 3 ba, 1,612 sqft|1501 San Carlos Ave, San Carlos, CA
+237|2.05M|6/24/14|3 bd, 3 ba, 2,754 sqft|1729 Elizabeth St, San Carlos, CA
+238|1.41M|6/24/14|3 bd, 2 ba, 1,630 sqft|100 Alberta Ave, San Carlos, CA
+239|1.85M|6/23/14|2 bd, 1.5 ba, 1,190 sqft|294 Devonshire Blvd, San Carlos, CA
+240|985,000|6/23/14|2 bd, 2.5 ba, 1,793 sqft|23 Calypso Ln # 34, San Carlos, CA
+241|699,000|6/20/14|2 bd, 3 ba, 1,230 sqft|1 Elm St APT 110, San Carlos, CA
+242|1.62M|6/20/14|3 bd, 2 ba, 1,550 sqft|80 Hartford Ave, San Carlos, CA
+243|2.5M|6/20/14|16 bd, 1 ba, 9,804 sqft|308 Torino Dr # 1, San Carlos, CA
+244|1.72M|6/19/14|4 bd, 2.5 ba, 2,250 sqft|154 Garnet Ave, San Carlos, CA
+245|1.15M|6/19/14|3 bd, 3 ba, 1,450 sqft|843 Cedar St, San Carlos, CA
+246|1.38M|6/18/14|4 bd, 2.5 ba, 1,640 sqft|1343 Chestnut St, San Carlos, CA
+247|1.18M|6/18/14|3 bd, 3 ba, 2,030 sqft|1625 San Carlos Ave APT D, San Carlos, CA
+248|1.6M|6/17/14|4 bd, 3 ba, 2,128 sqft|850 Regent Ct, San Carlos, CA
+249|565,000|6/17/14|2 bd, 2 ba, 940 sqft|222 Laurel St APT 302, San Carlos, CA
+250|2.1M|6/17/14|4 bd, 2.5 ba, 2,880 sqft|19 Camborne Ave, San Carlos, CA
+251|59,500|6/16/14|3 bd, 2.5 ba, 1,940 sqft|1301 Oakhurst Ave, San Carlos, CA
+252|680,000|6/13/14|2 bd, 2 ba, 1,180 sqft|1 Elm St APT 402, San Carlos, CA
+253|1.9M|6/13/14|2 bd, 2 ba, 1,780 sqft|825 Somerset Ct, San Carlos, CA
+254|765,000|6/13/14|3 bd, 2 ba, 1,239 sqft|3332 La Mesa Dr APT 9, San Carlos, CA
+255|638,000|6/12/14|2 bd, 2 ba, 1,180 sqft|1 Elm St APT 303, San Carlos, CA
+256|2M|6/12/14|4 bd, 4 ba, 2,359 sqft|50 Hilltop Dr, San Carlos, CA
+257|1.23M|6/11/14|3 bd, 2 ba, 1,620 sqft|540 Pearl Ave, San Carlos, CA
+258|1.6M|6/11/14|4 bd, 2 ba, 1,410 sqft|119 Brook St, San Carlos, CA
+259|1.68M|6/11/14|3 bd, 2 ba, 1,700 sqft|1944 Eaton Ave, San Carlos, CA
+260|1.91M|6/11/14|3 bd, 3 ba, 2,000 sqft|1625 Arroyo Ave, San Carlos, CA
+261|1.23M|6/6/14|3 bd, 3 ba, 2,031 sqft|13 Trillium Ln, San Carlos, CA
+262|1.5M|6/6/14|3 bd, 2 ba, 2,040 sqft|2222 Carmelita Dr, San Carlos, CA
+263|1.6M|6/5/14|4 bd, 2 ba, 2,770 sqft|155 Highland Ave, San Carlos, CA
+264|1.7M|6/3/14|4 bd, 2.5 ba, 2,401 sqft|2133 Brittan Ave, San Carlos, CA
+265|1.27M|6/2/14|4 bd, 2.5 ba, 2,928 sqft|77 Madera Ave, San Carlos, CA
+266|833,000|5/30/14|3 bd, 2 ba, 1,570 sqft|3003 Melendy Dr APT 3, San Carlos, CA
+267|4M|5/30/14|14 bd, 1 ba, 12,132 sqft|323 Torino Dr # 1, San Carlos, CA
+268|1.25M|5/29/14|2 bd, 2 ba, 1,820 sqft|1948 Saint Francis Way, San Carlos, CA
+269|1.5M|5/27/14|3 bd, 2 ba, 1,940 sqft|1984 Carmelita Dr, San Carlos, CA
+270|1.35M|5/23/14|3 bd, 2 ba, 1,600 sqft|44 Camborne Ave, San Carlos, CA
+271|2.3M|5/23/14|4 bd, 3 ba, 3,090 sqft|600 Knoll Dr, San Carlos, CA
+272|1.2M|5/23/14|2 bd, 1 ba, 1,200 sqft|1989 Belle Ave, San Carlos, CA|On market Mar 14
+273|1.75M|5/22/14|3 bd, 3 ba, 1,675 sqft|1944 Eucalyptus Ave, San Carlos, CA
+274|800,000|5/22/14|1 bd, 1 ba, 959 sqft|127 Chesham Ave, San Carlos, CA
+275|900,000|5/22/14|3 bd, 2 ba, 1,550 sqft|2731 Victoria Mnr, San Carlos, CA
+276|1.08M|5/20/14|2 bd, 2 ba, 1,360 sqft|68 Madrona St, San Carlos, CA
+277|1.46M|5/20/14|5 bd, 2.5 ba, 2,040 sqft|25 Walton St, San Carlos, CA
+278|1.59M|5/20/14|4 bd, 3 ba, 2,850 sqft|111 Lynton Ave, San Carlos, CA
+279|1.7M|5/16/14|3 bd, 3 ba, 2,300 sqft|123 Rockridge Rd, San Carlos, CA
+280|1.55M|5/16/14|4 bd, 2 ba, 1,450 sqft|1308 Orange Ave, San Carlos, CA
+281|1.52M|5/16/14|3 bd, 1.5 ba, 1,490 sqft|230 Kelton Ave, San Carlos, CA
+282|699,000|5/16/14|3 bd, 2 ba, 1,239 sqft|3356 La Mesa Dr APT 5, San Carlos, CA
+283|639,000|5/16/14|2 bd, 2 ba, 1,040 sqft|3378 Brittan Ave APT 3, San Carlos, CA
+284|8.75M|5/15/14|1 bd, 1 ba, 700 sqft|547 Cedar St, San Carlos, CA
+285|1.32M|5/15/14|3 bd, 1.5 ba, 1,450 sqft|524 Emerald Ave, San Carlos, CA
+286|427,500|5/9/14|4 bd, 3 ba, 1,660 sqft|197 Lyndhurst Ave, San Carlos, CA
+287|1.06M|5/9/14|2 bd, 1 ba, 1,120 sqft|1368 Chestnut St, San Carlos, CA
+288|1.31M|5/9/14|3 bd, 2.5 ba, 1,820 sqft|5 Granite Ct, San Carlos, CA
+289|865,000|5/9/14|2 bd, 2.5 ba, 1,380 sqft|648 Chestnut St, San Carlos, CA
+290|860,000|5/9/14|3 bd, 1.5 ba, 1,270 sqft|1048 Riverton Dr, San Carlos, CA
+291|1.82M|5/8/14|3 bd, 2.5 ba, 2,390 sqft|209 Rockridge Rd, San Carlos, CA
+292|1.59M|5/7/14|3 bd, 2 ba, 8,000 sqft|55 Madrona St, San Carlos, CA
+293|1.61M|5/6/14|3 bd, 2 ba, 1,870 sqft|1415 Elm St, San Carlos, CA
+294|1.43M|5/6/14|4 bd, 2 ba, 2,440 sqft|3170 Brittan Ave, San Carlos, CA
+295|830,000|5/6/14|2 bd, 2.5 ba, 1,190 sqft|655 Prospect St, San Carlos, CA
+296|2.7M|5/5/14|5 bd, 2.5 ba, 3,730 sqft|1525 San Carlos Ave, San Carlos, CA
+297|699,000|5/5/14|3 bd, 2 ba, 1,239 sqft|3352 La Mesa Dr APT 6, San Carlos, CA
+298|1.05M|5/2/14|3 bd, 1 ba, 1,120 sqft|1052 Lupin Way, San Carlos, CA
+299|1.73M|5/2/14|5 bd, 3 ba, 3,390 sqft|72 Coronado Ave, San Carlos, CA
+300|1.2M|5/1/14|3 bd, 3 ba, 2,020 sqft|3025 Brittan Ave, San Carlos, CA
+301|1.13M|5/1/14|3 bd, 1 ba, 1,290 sqft|1370 Hull Dr, San Carlos, CA
+302|1.65M|5/1/14|4 bd, 3 ba, 2,000 sqft|115 Barford Ave, San Carlos, CA
+303|1.15M|4/30/14|3 bd, 2.5 ba, 2,200 sqft|13 Violet Ln, San Carlos, CA
+304|1.63M|4/30/14|4 bd, 2 ba, 2,190 sqft|1924 Belle Ave, San Carlos, CA
+305|1.14M|4/29/14|3 bd, 2 ba, 1,770 sqft|145 Dolton Ave, San Carlos, CA
+306|1.66M|4/28/14|4 bd, 3 ba, 2,522 sqft|2511 Melendy Dr, San Carlos, CA
+307|2.31M|4/25/14|4 bd, 4 ba, 2,982 sqft|1355 Central Ave, San Carlos, CA
+308|525,000|4/25/14|1 bd, 1 ba, 903 sqft|775 Chestnut St APT 17, San Carlos, CA
+309|650,000|4/25/14|3 bd, 2 ba, 1,239 sqft|3350 Brittan Ave APT 7, San Carlos, CA
+310|2.85M|4/25/14|4 bd, 4 ba, 10,030 sqft|124 Normandy Ct, San Carlos, CA
+311|1.4M|4/24/14|3 bd, 3 ba, 2,390 sqft|2444 Melendy Dr, San Carlos, CA
+312|725,000|4/23/14|2 bd, 2.5 ba, 1,250 sqft|1263 Holly St APT B, San Carlos, CA
+313|605,000|4/23/14|2 bd, 1 ba, 910 sqft|772 Walnut St APT 2, San Carlos, CA
+314|1.43M|4/23/14|3 bd, 4 ba, 2,350 sqft|112 Madera Ave, San Carlos, CA
+315|985,000|4/23/14|3 bd, 2 ba, 1,270 sqft|115 Sheldon Ave, San Carlos, CA
+316|1.6M|4/22/14|4 bd, 2 ba, 1,620 sqft|1906 Saint Francis Way, San Carlos, CA
+317|510,000|4/22/14|1 bd, 1 ba, 903 sqft|775 Chestnut St APT 14, San Carlos, CA
+318|2.27M|4/22/14|4 bd, 3.5 ba, 2,390 sqft|2235 Carmelita Dr, San Carlos, CA
+319|852,000|4/21/14|2 bd, 1 ba, 920 sqft|1035 Cherry St, San Carlos, CA
+320|620,000|4/21/14|2 bd, 2 ba, 1,040 sqft|3350 La Mesa Dr APT 15, San Carlos, CA
+321|1.27M|4/21/14|4 bd, 2 ba, 2,390 sqft|231 Oakview Dr, San Carlos, CA
+322|1.01M|4/18/14|3 bd, 2 ba, 1,590 sqft|942 Mccue Ave, San Carlos, CA
+323|1.42M|4/18/14|3 bd, 2 ba, 1,480 sqft|1357 Woodland Ave, San Carlos, CA
+324|1.6M|4/17/14|4 bd, 3 ba, 2,270 sqft|1262 Crestview Dr, San Carlos, CA
+325|903,000|4/16/14|3 bd, 2 ba, 1,320 sqft|1004 Springfield Dr, San Carlos, CA
+326|1.15M|4/11/14|2 bd, 2 ba, 1,688 sqft|656 Walnut St UNIT 202, San Carlos, CA
+327|921,000|4/11/14|2 bd, 1 ba, 1,080 sqft|2238 Brittan Ave, San Carlos, CA
+328|2.15M|4/11/14|3 bd, 2 ba, 2,440 sqft|156 Normandy Ct, San Carlos, CA
+329|1.63M|4/11/14|3 bd, 2 ba, 1,650 sqft|41 Walton St, San Carlos, CA
+330|300,000|4/8/14|3 bd, 2.5 ba, 2,660 sqft|236 Exeter Ave, San Carlos, CA
+331|2.25M|4/8/14|4 bd, 3 ba, 2,700 sqft|945 Chestnut St, San Carlos, CA
+332|1.05M|4/8/14|3 bd, 1 ba, 1,440 sqft|1382 Rosewood Ave, San Carlos, CA
+333|1.2M|4/7/14|2 bd, 2 ba, 1,320 sqft|2321 Eaton Ave, San Carlos, CA
+334|1.39M|4/4/14|3 bd, 2 ba, 1,890 sqft|3121 Melendy Dr, San Carlos, CA
+335|1.24M|4/4/14|4 bd, 2 ba, 1,830 sqft|313 Oakview Dr, San Carlos, CA
+336|1.14M|4/3/14|3 bd, 3 ba, 2,510 sqft|17 Iris Ln, San Carlos, CA
+337|1.86M|4/3/14|4 bd, 2.5 ba, 2,870 sqft|94 Loma Rd, San Carlos, CA
+338|816,000|4/3/14|3 bd, 1 ba, 960 sqft|295 G St, Redwood City, CA
+339|1.42M|3/28/14|3 bd, 2 ba, 3,205 sqft|545 Walnut St, San Carlos, CA
+340|750,000|3/28/14|2 bd, 2 ba, 1,570 sqft|400 Portofino Dr APT 1, San Carlos, CA
+341|1.8M|3/28/14|3 bd, 2 ba, 2,130 sqft|880 Regent Ct, San Carlos, CA
+342|1.23M|3/28/14|3 bd, 2 ba, 1,610 sqft|379 De Anza Ave, San Carlos, CA
+343|829,000|3/28/14|2 bd, 1 ba, 1,030 sqft|918 Mccue Ave, San Carlos, CA
+344|1.54M|3/27/14|3 bd, 2 ba, 1,490 sqft|1005 Rosewood Ave, San Carlos, CA
+345|1.2M|3/26/14|3 bd, 2.5 ba, 1,650 sqft|1693 Walnut St, San Carlos, CA
+346|635,000|3/25/14|2 bd, 2 ba, 1,040 sqft|3323 La Mesa Dr APT 2, San Carlos, CA
+347|1.5M|3/25/14|2 bd, 1 ba, 1,640 sqft|2130 Eaton Ave, San Carlos, CA
+348|1.43M|3/24/14|4 bd, 2 ba, 1,690 sqft|921 Heather Dr, San Carlos, CA
+349|1.85M|3/21/14|3 bd, 2 ba, 1,600 sqft|2089 Eaton Ave, San Carlos, CA
+350|1.21M|3/21/14|3 bd, 2 ba, 1,580 sqft|24 Robin Way, San Carlos, CA
+351|1.23M|3/21/14|3 bd, 2.5 ba, 2,510 sqft|14 Daffodil Ln, San Carlos, CA
+352|1.1M|3/19/14|2 bd, 2 ba, 1,120 sqft|1505 Belmont Ave, San Carlos, CA
+353|825,000|3/19/14|9 bd, 7 ba, 7,537 sqft|1628 Fifth Ave, Belmont, CA
+354|1.1M|3/19/14|3 bd, 1 ba, 1,240 sqft|304 Cedar St, San Carlos, CA
+355|1.73M|3/18/14|2 bd, 2 ba, 2,184 sqft|917 Rosewood Ave, San Carlos, CA
+356|1.5M|3/18/14|4 bd, 3 ba, 2,050 sqft|2457 Melendy Dr, San Carlos, CA
+357|1.2M|3/17/14|3 bd, 1.5 ba, 1,240 sqft|201 Edgehill Dr, San Carlos, CA
+358|1.57M|3/14/14|3 bd, 2 ba, 1,667 sqft|225 Alberta Ave, San Carlos, CA
+359|1.82M|3/14/14|3 bd, 2.5 ba, 2,600 sqft|156 Mesa Verde Way, San Carlos, CA
+360|1.45M|3/14/14|3 bd, 2 ba, 1,880 sqft|34 Hilltop Dr, San Carlos, CA
+361|725,000|3/13/14|2 bd, 1 ba, 1,570 sqft|3009 Melendy Dr APT 2, San Carlos, CA
+362|2.17M|3/11/14|13 bd, 1 ba, 4,968 sqft|1150 Greenwood Ave, San Carlos, CA
+363|2M|3/11/14|4 bd, 3 ba, 2,760 sqft|319 Emerald Ave, San Carlos, CA
+364|1.8M|3/11/14|4 bd, 3 ba, 3,000 sqft|878 Knoll Dr, San Carlos, CA
+365|3.6M|3/10/14|3 bd, 1 ba, 1,220 sqft|777 Walnut St, San Carlos, CA
+366|1.52M|3/7/14|4 bd, 2 ba, 2,000 sqft|1320 Greenwood Ave, San Carlos, CA
+367|1.68M|3/7/14|4 bd, 3.5 ba, 5,010 sqft|240 Hillcrest Rd, San Carlos, CA
+368|1.27M|3/7/14|4 bd, 2 ba, 1,850 sqft|1124 Dayton Ave, San Carlos, CA
+369|1.05M|3/7/14|2 bd, 2 ba, 1,420 sqft|953 Lupin Way, San Carlos, CA
+370|1.4M|3/7/14|3 bd, 2.5 ba, 1,900 sqft|55 Pine Ave, San Carlos, CA
+371|1.26M|2/28/14|5 bd, 3.5 ba, 2,190 sqft|21 Madera Ave, San Carlos, CA
+372|786,000|2/28/14|2 bd, 2 ba, 1,180 sqft|982 Holly St, San Carlos, CA
+373|725,000|2/28/14|2 bd, 2 ba, 1,512 sqft|793 Elm St APT 7, San Carlos, CA
+374|635,000|2/28/14|2 bd, 2 ba, 1,040 sqft|3382 Brittan Ave APT 11, San Carlos, CA
+375|635,000|2/27/14|2 bd, 2 ba, 1,040 sqft|3358 Brittan Ave APT 11, San Carlos, CA
+376|780,000|2/26/14|2 bd, 2 ba, 1,290 sqft|775 Chestnut St APT 6, San Carlos, CA
+377|48,400|2/25/14|2 bd, 2 ba, 1,070 sqft|728 Elm St APT 103, San Carlos, CA
+378|1.3M|2/25/14|3 bd, 2.5 ba, 1,760 sqft|125 Highland Ave, San Carlos, CA
+379|804,545|2/25/14|2 bd, 1 ba, 990 sqft|1026 Alameda, San Carlos, CA
+380|805,000|2/24/14|2 bd, 1 ba, -- sqft|1026 Alameda De Las Pulgas, San Carlos, CA
+381|961,000|2/24/14|3 bd, 2 ba, 1,370 sqft|2388 Brittan Ave, San Carlos, CA
+382|1.45M|2/21/14|3 bd, 2 ba, 1,430 sqft|183 Ruby Ave, San Carlos, CA
+383|1.1M|2/19/14|3 bd, 2.5 ba, 2,092 sqft|86 Madrona St, San Carlos, CA
+384|708,000|2/19/14|1 bd, 1 ba, 720 sqft|135 Dale Ave, San Carlos, CA
+385|1.01M|2/18/14|2 bd, 2 ba, 1,230 sqft|126 Manor Dr, San Carlos, CA
+386|655,000|2/17/14|2 bd, 2 ba, 1,180 sqft|1 Elm St APT 200, San Carlos, CA
+387|880,000|2/14/14|4 bd, 2 ba, 2,419 sqft|57 Elm St, San Carlos, CA
+388|630,000|2/14/14|2 bd, 2 ba, 1,040 sqft|3335 La Mesa Dr APT 8, San Carlos, CA
+389|652,000|2/12/14|2 bd, 2 ba, 1,040 sqft|3348 La Mesa Dr APT 14, San Carlos, CA
+390|630,000|2/10/14|2 bd, 2.5 ba, 1,310 sqft|416 Portofino Dr # 5, San Carlos, CA
+391|765,000|2/7/14|3 bd, 1 ba, 1,020 sqft|332 G St, Redwood City, CA
+392|620,000|2/5/14|2 bd, 2 ba, 1,050 sqft|2 Elm St APT 201, San Carlos, CA
+393|1.83M|2/4/14|4 bd, 3 ba, 2,460 sqft|2721 San Miguel Way, San Carlos, CA
+394|1.06M|1/31/14|2 bd, 1 ba, 890 sqft|243 Hillcrest Rd, San Carlos, CA
+395|2.58M|1/30/14|4 bd, 3.5 ba, 3,880 sqft|28 Oak Creek Ln, San Carlos, CA
+396|1.31M|1/29/14|3 bd, 2.5 ba, 2,330 sqft|5 Poppy Ln, San Carlos, CA
+397|1.45M|1/28/14|4 bd, 3.5 ba, 2,270 sqft|2730 San Miguel Way, San Carlos, CA
+398|985,000|1/24/14|3 bd, 1.5 ba, 1,200 sqft|23 Vine St, San Carlos, CA
+399|775,000|1/23/14|2 bd, 1 ba, 910 sqft|1005 Hall St, San Carlos, CA
+400|1M|1/22/14|2 bd, 1 ba, 1,390 sqft|1333 Elm St, San Carlos, CA
+401|1.25M|1/21/14|3 bd, 2 ba, 3,000 sqft|501 Walnut St, San Carlos, CA
+402|2.56M|1/21/14|5 bd, 5 ba, 5,583 sqft|2727 Clifford Ave, San Carlos, CA
+403|594,000|1/17/14|2 bd, 2 ba, 1,040 sqft|3392 Brittan Ave APT 7, San Carlos, CA
+404|1.3M|1/16/14|3 bd, 2 ba, 1,870 sqft|1036 Hewitt Dr, San Carlos, CA
+405|950,000|1/13/14|3 bd, 3 ba, 1,793 sqft|11 Buttercup Ln, San Carlos, CA
+406|785,000|1/10/14|2 bd, 2 ba, 1,267 sqft|15 Sorrel Ln, San Carlos, CA
+407|579,000|1/10/14|2 bd, 2 ba, 1,030 sqft|1 Laurel St APT 102, San Carlos, CA
+408|1.61M|1/9/14|3 bd, 2 ba, 1,750 sqft|30 Dover Ct, San Carlos, CA
+409|289,500|1/8/14|3 bd, 2 ba, 1,550 sqft|529 Wellington Dr, San Carlos, CA
+410|2.2M|1/8/14|4 bd, 4 ba, 3,935 sqft|18 Estrada Pl, San Carlos, CA
+411|1.18M|1/8/14|3 bd, 2 ba, 1,680 sqft|878 Heather Dr, San Carlos, CA
+412|1.98M|1/8/14|2 bd, 1 ba, 920 sqft|1532 Greenwood Ave, San Carlos, CA
+413|1.58M|1/7/14|4 bd, 3 ba, 2,057 sqft|8 Portofino Ct, San Carlos, CA
+414|1.31M|1/3/14|3 bd, 2 ba, 1,510 sqft|818 Cordilleras Ave, San Carlos, CA
+415|1.07M|12/31/13|3 bd, 2 ba, 1,470 sqft|2708 Eaton Ave, San Carlos, CA
+416|750,000|12/31/13|4 bd, 3 ba, 2,510 sqft|193 Glasgow Ln, San Carlos, CA
+417|1.38M|12/30/13|3 bd, 1.5 ba, 1,450 sqft|2119 Greenwood Ave, San Carlos, CA
+418|1.26M|12/27/13|3 bd, 2 ba, 1,580 sqft|1311 Talbryn Dr, Belmont, CA
+419|1.11M|12/24/13|3 bd, 3 ba, 2,100 sqft|3 Poppy Ln, San Carlos, CA
+420|820,000|12/24/13|2 bd, 2 ba, 1,094 sqft|1001 Laurel St UNIT 201, San Carlos, CA
+421|1.65M|12/24/13|3 bd, 2 ba, 1,860 sqft|60 Wessex Way, San Carlos, CA
+422|1.9M|12/20/13|4 bd, 3 ba, 2,277 sqft|1409 Cordilleras Ave, San Carlos, CA
+423|2.81M|12/20/13|4 bd, 0.5 ba, 4,700 sqft|2819 Eaton Ave, San Carlos, CA
+424|890,000|12/20/13|2 bd, 2 ba, 1,270 sqft|2516 San Carlos Ave, San Carlos, CA
+425|1.3M|12/19/13|3 bd, 2.5 ba, 1,870 sqft|1924 Eaton Ave, San Carlos, CA
+426|1.3M|12/19/13|3 bd, 2.5 ba, 1,870 sqft|1924 Eaton Ave, San Carlos, CA
+427|300,000|12/19/13|2 bd, 2 ba, 1,096 sqft|633 Elm St APT 203, San Carlos, CA
+428|649,000|12/18/13|2 bd, 2 ba, 1,320 sqft|602 Cedar St APT 5, San Carlos, CA
+429|350,000|12/17/13|3 bd, 2 ba, 1,220 sqft|1519 Altura Way, Belmont, CA
+430|1.13M|12/17/13|4 bd, 3 ba, 2,390 sqft|716 Orange Ave, San Carlos, CA
+431|1.22M|12/17/13|4 bd, 2 ba, 1,750 sqft|2087 Belle Ave, San Carlos, CA
+432|1.28M|12/16/13|3 bd, 2.5 ba, 1,965 sqft|1044 Hewitt Dr, San Carlos, CA
+433|30,000|12/16/13|3 bd, 1.5 ba, 1,220 sqft|128 Beverly Dr, San Carlos, CA
+434|905,000|12/12/13|4 bd, 3 ba, 2,000 sqft|1374 Alameda, San Carlos, CA
+435|1.3M|12/11/13|2 bd, 2 ba, 1,430 sqft|184 Ruby Ave, San Carlos, CA
+436|704,000|12/11/13|1 bd, 1 ba, 760 sqft|220 Winding Way, San Carlos, CA
+437|1.45M|12/10/13|4 bd, 3 ba, 2,410 sqft|121 Beverly Dr, San Carlos, CA
+438|824,000|12/10/13|3 bd, 2 ba, 1,050 sqft|973 Alameda, San Carlos, CA
+439|1.1M|12/9/13|3 bd, 2 ba, 1,670 sqft|1036 San Remo Way, San Carlos, CA
+440|750,000|12/9/13|3 bd, 2 ba, 1,010 sqft|2641 San Carlos Ave, San Carlos, CA
+441|1.05M|12/6/13|4 bd, 2 ba, 1,640 sqft|9 Devonshire Blvd, San Carlos, CA
+442|1.5M|12/6/13|2 bd, 2 ba, 1,740 sqft|61 Devonshire Cir, San Carlos, CA
+443|1.18M|12/6/13|3 bd, 2.5 ba, 2,360 sqft|315 Wellington Dr, San Carlos, CA
+444|1.2M|12/6/13|3 bd, 2 ba, 1,363 sqft|1384 Chestnut St, San Carlos, CA
+445|1.53M|12/3/13|5 bd, 3 ba, 2,660 sqft|3142 La Mesa Dr, San Carlos, CA
+446|2.1M|12/3/13|5 bd, 5 ba, 4,490 sqft|75 Hartford Ave, San Carlos, CA
+447|1.3M|12/2/13|3 bd, 1.5 ba, 1,473 sqft|1322 Eaton Ave, San Carlos, CA
+448|970,000|11/29/13|3 bd, 2.5 ba, 1,440 sqft|45 Shelford Ave, San Carlos, CA
+449|1M|11/27/13|3 bd, 2 ba, 1,430 sqft|153 Palm Ave, San Carlos, CA
+450|1M|11/27/13|4 bd, 2 ba, 1,470 sqft|753 Walnut St, San Carlos, CA
+451|560,000|11/26/13|2 bd, 2 ba, 1,040 sqft|3327 La Mesa Dr APT 4, San Carlos, CA
+452|707,000|11/26/13|2 bd, 1 ba, 1,020 sqft|315 Old County Rd, San Carlos, CA
+453|1.17M|11/26/13|3 bd, 2 ba, 1,450 sqft|185 Cedar St, San Carlos, CA
+454|360,000|11/26/13|1 bd, 1 ba, 702 sqft|222 Laurel St APT 209, San Carlos, CA
+455|1.35M|11/25/13|4 bd, 4 ba, 3,475 sqft|323 Chesham Ave, San Carlos, CA
+456|668,000|11/22/13|2 bd, 2 ba, 1,040 sqft|3319 La Mesa Dr APT 3, San Carlos, CA
+457|1.75M|11/22/13|4 bd, 2 ba, 1,900 sqft|3157 La Mesa Dr, San Carlos, CA
+458|1.35M|11/20/13|3 bd, 2 ba, 1,850 sqft|108 Glasgow Ln, San Carlos, CA
+459|620,000|11/19/13|2 bd, 2 ba, 1,040 sqft|3332 La Mesa Dr APT 10, San Carlos, CA
+460|1.05M|11/18/13|3 bd, 3 ba, 2,330 sqft|6 Honeysuckle Ln, San Carlos, CA
+461|1.05M|11/17/13|3 bd, 2.5 ba, 2,200 sqft|6 Honeysuckle Ln, San Carlos, CA
+462|1.52M|11/15/13|3 bd, 2 ba, 1,790 sqft|1500 Saint Francis Way, San Carlos, CA
+463|1.55M|11/14/13|4 bd, 2 ba, 2,250 sqft|870 Crestview Dr, San Carlos, CA
+464|806,000|11/13/13|2 bd, 2 ba, 1,094 sqft|1001 Laurel St UNIT 305, San Carlos, CA
+465|629,000|11/8/13|2 bd, 1 ba, 1,570 sqft|2987 Melendy Dr APT 2, San Carlos, CA
+466|1.6M|11/8/13|4 bd, 2 ba, 1,980 sqft|209 Devonshire Blvd, San Carlos, CA
+467|1.11M|11/8/13|2 bd, 1 ba, 1,350 sqft|1137 Woodland Ave, San Carlos, CA
+468|1.3M|11/7/13|3 bd, 2.5 ba, 2,080 sqft|1089 Porto Marino Dr, San Carlos, CA
+469|929,000|11/6/13|2 bd, 1 ba, 1,100 sqft|1100 Orange Ave, San Carlos, CA
+470|1.51M|11/5/13|-- bd, -- ba, 3,390 sqft|1338 Holly St, San Carlos, CA
+471|1.51M|11/5/13|2 bd, 1 ba, 800 sqft|1338 Holly St APT 8, San Carlos, CA
+472|905,000|11/5/13|2 bd, 2 ba, 1,030 sqft|1224 Howard Ave, San Carlos, CA
+473|1.64M|11/4/13|4 bd, 4.5 ba, 2,730 sqft|124 Chesham Ave, San Carlos, CA
+474|1.02M|11/1/13|4 bd, 3 ba, 2,020 sqft|3280 Brittan Ave, San Carlos, CA
+475|1.1M|11/1/13|3 bd, 2 ba, 1,733 sqft|2349 Eaton Ave, San Carlos, CA

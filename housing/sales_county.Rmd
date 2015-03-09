@@ -1,0 +1,172 @@
+---
+title: "What is the best time of the year to buy a house"
+output:
+  html_document:
+    theme: united
+    highlight: tango
+    self_contained: true
+---
+
+
+Feb 2015. We recently started looking for houses in bay area. As a first time home buyer, we are learning many interesting things. For instance listing price is not an MRP but a starting bidding price and some people pay all in cash. If there is an area with good public schools the prices go lot higher than listed price. Basically demand is much more than the supply and hence more people put offers on a house resulting in increase of house price. Our agent suggested that the market will improve as we approach summer. 
+
+In order to validate this, we ran through some plots on sales of houses over last 6 years. Results very much incline towards summer being a season with more sales/inventory.  
+
+Here is a summary for number of houses sold in last 7 years. 
+
+```{r results='hide',message=FALSE, echo=FALSE}
+
+home_sale<-read.csv("Sales_County.csv", header=TRUE)
+library(dplyr)
+require(dplyr)
+require(tidyr)
+require(devtools)
+library(devtools)
+library(rCharts)
+library(reshape2)
+require(rCharts)
+require(sqldf)
+require(data.table)
+homes<-tbl_df(home_sale)
+
+#we need to convert clean and make this data tidy
+homes_clean<-gather(homes, RegionName, State)
+colnames(homes_clean)<-c("county", "state", "date", "count")
+
+#major counties - hand picked
+major_counties<-c("San Francisco", "San Mateo", "Santa Clara", "Santa Cruz", "Orange", "Sacramento", "San Diego", "Alameda", "Fresno", "Los Angeles", "Contra Costa", "San Joaquin", "Sonoma")
+
+
+#convert to date format
+homes_clean$date<-as.Date(paste0("15.", homes_clean$date), "%d.%b.%Y")
+#homes_cl<-mutate(homes_clean[homes_clean$county=="Santa Clara",], year=year(date), month=month(date))
+#nPlot(count ~ month, group = 'year', data = homes_cl, type = 'lineChart')
+
+```
+
+## San Francisco
+January starts with the least number of houses and it becomes almost double by March. April 2011 saw a big spike in sale, which could be attributed to market rising up after a 3/4 years of slow down. There is another spike in 2012 August. The red line shows the market in 2014 and indicates how sales have gone down over the years or how expensive it has become to buy a house here. 
+
+```{r comment = NA, results = 'asis', tidy = F, cache = F, echo=FALSE}
+homes_cl<-mutate(homes_clean[homes_clean$county==major_counties[1],], year=year(date), month=month(date))
+n1<-nPlot(count ~ month, group = 'year', data = homes_cl, type = 'lineChart')
+n1$xAxis(staggerLabels = TRUE)
+n1$print('chartsf', include_assets = TRUE)
+```
+
+
+## San Mateo
+Similar to San Francisco, 2009 resulted in least number of houses being sold (not necessarily the houses listed for sale). Maximum number of houses were sold between May, June and July months. This could be attributed to that fact that people move only when schools are not in session. Also the inventory looks good in San Mateo area as the houses have been selling in relatively good numbers in 2014. 
+```{r comment = NA, results = 'asis', tidy = F, cache = F, echo=FALSE}
+homes_cl<-mutate(homes_clean[homes_clean$county==major_counties[2],], year=year(date), month=month(date))
+n2<-nPlot(count ~ month, group = 'year', data = homes_cl, type = 'lineChart')
+n2$xAxis(staggerLabels = TRUE)
+n2$print('chartsm', include_assets = TRUE)
+```
+
+## Santa Clara
+Step function growth in sales till we reach May and going down thereafter. It is interesting to note how market behaved in 2009 after a slow start. Lot of houses were sold irrespective of month of the year. Another observation can be made about 2014 compared to 2008-2009 period, the economic activity is as slow as it was during sub prime crises. 
+```{r comment = NA, results = 'asis', tidy = F, cache = F, echo=FALSE}
+homes_cl<-mutate(homes_clean[homes_clean$county==major_counties[3],], year=year(date), month=month(date))
+n3<-nPlot(count ~ month, group = 'year', data = homes_cl, type = 'lineChart')
+n3$xAxis(staggerLabels = TRUE)
+n3$print('chartcl', include_assets = TRUE)
+```
+
+## Santa Cruz
+Santa Cruz is one of the least selling counties in this list with market falling in Feb before it gets to max by May. Since the margins are very low, it will be difficult to remark on any of the spikes. 
+```{r comment = NA, results = 'asis', tidy = F, cache = F, echo=FALSE}
+homes_cl<-mutate(homes_clean[homes_clean$county==major_counties[4],], year=year(date), month=month(date))
+n4<-nPlot(count ~ month, group = 'year', data = homes_cl, type = 'lineChart')
+n4$xAxis(staggerLabels = TRUE)
+n4$print('chart4', include_assets = TRUE)
+```
+
+## Orange
+This is the third most populas county in California, so we can number of houses are much more compared to previous counties. We can again see 2010 being one of the best year. Interestingly the numbers have come down over the years. 
+```{r comment = NA, results = 'asis', tidy = F, cache = F, echo=FALSE}
+homes_cl<-mutate(homes_clean[homes_clean$county==major_counties[5],], year=year(date), month=month(date))
+n5<-nPlot(count ~ month, group = 'year', data = homes_cl, type = 'lineChart')
+n5$xAxis(staggerLabels = TRUE)
+n5$print('chart5', include_assets = TRUE)
+```
+
+
+## Sacramento
+People are either loosing interest or there are no more houses on sale in the state capital. We can clearly see decline in numbers by a big margin from 2012 to 2014. The inventory could also be a reason for this, initally there was a whole lot and not it's filling up and hence compacting to natural growth. 
+```{r comment = NA, results = 'asis', tidy = F, cache = F, echo=FALSE}
+homes_cl<-mutate(homes_clean[homes_clean$county==major_counties[6],], year=year(date), month=month(date))
+n51<-nPlot(count ~ month, group = 'year', data = homes_cl, type = 'lineChart')
+n51$xAxis(staggerLabels = TRUE)
+n51$print('chart51', include_assets = TRUE)
+```
+
+
+## San Diego
+June 2009 to June 2010 almost represent a big-oh(sales) in last 7 years in San Diego. Could there be an effect of weather on home sales? October is equally good month to buy homes in San Diego. Also 2014 saw the lowest sales so far. 
+```{r comment = NA, results = 'asis', tidy = F, cache = F, echo=FALSE}
+homes_cl<-mutate(homes_clean[homes_clean$county==major_counties[7],], year=year(date), month=month(date))
+n6<-nPlot(count ~ month, group = 'year', data = homes_cl, type = 'lineChart')
+n6$xAxis(staggerLabels = TRUE)
+n6$print('chart6', include_assets = TRUE)
+```
+
+## Alameda
+This county also saw lot of real estate investment after 2008 recovery. May, July and October marks the most busiest months. Rising house prices in San Francisco made people moved to nearby regions, Alameda county could be corelated with that effect.
+```{r comment = NA, results = 'asis', tidy = F, cache = F, echo=FALSE}
+homes_cl<-mutate(homes_clean[homes_clean$county==major_counties[8],], year=year(date), month=month(date))
+n8<-nPlot(count ~ month, group = 'year', data = homes_cl, type = 'lineChart')
+n8$xAxis(staggerLabels = TRUE)
+n8$print('chart8', include_assets = TRUE)
+```
+
+## Fresno
+Fresno people like April, June and August the most. However after 2012 we see the interest declining and less number of houses are selling. 
+```{r comment = NA, results = 'asis', tidy = F, cache = F, echo=FALSE}
+homes_cl<-mutate(homes_clean[homes_clean$county==major_counties[9],], year=year(date), month=month(date))
+n9<-nPlot(count ~ month, group = 'year', data = homes_cl, type = 'lineChart')
+n9$xAxis(staggerLabels = TRUE)
+n9$print('chart9', include_assets = TRUE)
+```
+
+## Los Angeles
+Every month 4000 to 5000 houses sell in Los Angeles county. I think this is a great place for real estate agents. Anytime from March to October is great time for buyers. 
+```{r comment = NA, results = 'asis', tidy = F, cache = F, echo=FALSE}
+homes_cl<-mutate(homes_clean[homes_clean$county==major_counties[10],], year=year(date), month=month(date))
+n10<-nPlot(count ~ month, group = 'year', data = homes_cl, type = 'lineChart')
+n10$xAxis(staggerLabels = TRUE)
+n10$print('chart10', include_assets = TRUE)
+```
+
+## Contra Costa
+Mt. Diablo falls in Contra Costa, in case you are wondering where this county lies. San Ramon is one of the major cities in this county accessible by bart to San Francisco. This region saw lot of sales in 2008, 2009 and 2010. Sales are going down after 2012, this could be because this place has become equally expensive and gives no incentive to commuting from Bay area.  
+```{r comment = NA, results = 'asis', tidy = F, cache = F, echo=FALSE}
+homes_cl<-mutate(homes_clean[homes_clean$county==major_counties[11],], year=year(date), month=month(date))
+n11<-nPlot(count ~ month, group = 'year', data = homes_cl, type = 'lineChart')
+n11$xAxis(staggerLabels = TRUE)
+n11$print('chart11', include_assets = TRUE)
+```
+
+
+## San Joaquin
+Lot of people bought home here in 2009 and the numbers are falling since. Every year there is a significant drop in sales. 
+```{r comment = NA, results = 'asis', tidy = F, cache = F, echo=FALSE}
+homes_cl<-mutate(homes_clean[homes_clean$county==major_counties[12],], year=year(date), month=month(date))
+n12<-nPlot(count ~ month, group = 'year', data = homes_cl, type = 'lineChart')
+n12$xAxis(staggerLabels = TRUE)
+n12$print('chart12', include_assets = TRUE)
+```
+
+
+## Sonoma
+March, May and June have been successful years for home buyers in this region. In comparison to San Joaquin this county looks more exciting. In 2014 most home buyers choose April to October. 
+```{r comment = NA, results = 'asis', tidy = F, cache = F, echo=FALSE}
+homes_cl<-mutate(homes_clean[homes_clean$county==major_counties[13],], year=year(date), month=month(date))
+n13<-nPlot(count ~ month, group = 'year', data = homes_cl, type = 'lineChart')
+n13$xAxis(staggerLabels = TRUE)
+n13$print('chart13', include_assets = TRUE)
+```
+
+# References
+- http://www.zillow.com/research/data/
+
