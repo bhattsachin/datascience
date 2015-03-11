@@ -8,3 +8,15 @@ carlos<-mutate(carlos, bath=as.numeric(str_match(Size, "([0-9.]+) bd, ([0-9.]+) 
 n1<-nPlot(Price ~ Sold.Date, data = carlos[!is.na(carlos$bath) & carlos$bath<4 &carlos$Price<4000000,], type="scatterChart", group="bath", width=800)
 
 
+
+redfin<-read.csv("redfin_result.csv", header=TRUE)
+carl<-tbl_df(redfin)
+
+carl_only<-filter(carl, tolower(CITY)=="san carlos")
+
+
+#select distinct
+carl_only<-distinct(carl_only, ADDRESS)
+
+#single family homes
+
